@@ -749,3 +749,17 @@ for chosen_label in range(19):
     vocab = load_vectoriser(chosen_label).vocabulary_.keys()
     file_name = f"label_{str(chosen_label)}/label_{str(chosen_label)}_vocabulary.txt"
     pd.Series(list(vocab)).to_csv(file_name, index=False, header=False)
+
+
+
+import os
+
+for num in range(19):
+    if num==2:
+        pass
+    else:
+        l = 'label_' + str(num)
+        for i in os.listdir(l):
+            j = i.replace('5min', '6min')
+            print(j)
+            os.rename(l + '/' + i, l + '/' + j)
