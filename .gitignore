@@ -11,7 +11,7 @@
 *features_xgboost*
 *feature_importance_tree*
 *200n*
-*/*.csv
+*/label_*.csv
 *final_model*
 *tfidf*
 

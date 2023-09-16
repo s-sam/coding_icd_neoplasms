@@ -1,0 +1,19 @@
+label_index,label,vocab_size
+0,NOT_Neoplasms,56022
+1,Benign neoplasms,56206
+3,Malignant neoplasm of breast,55924
+4,Malignant neoplasms of bone and articular cartilage,56246
+5,Malignant neoplasms of digestive organs,55953
+6,"Malignant neoplasms of eye, brain and other parts of central nervous system",56180
+7,Malignant neoplasms of female genital organs,55988
+8,"Malignant neoplasms of ill-defined, secondary and unspecified sites",55913
+9,Malignant neoplasms of independent (primary) multiple sites,55961
+10,"Malignant neoplasms of lip, oral cavity and pharynx",55939
+11,Malignant neoplasms of male genital organs,56095
+12,Malignant neoplasms of mesothelial and soft tissue,55842
+13,Malignant neoplasms of respiratory and intrathoracic organs,56163
+14,Malignant neoplasms of thyroid and other endocrine glands,56392
+15,Malignant neoplasms of urinary tract,56206
+16,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",56152
+17,Melanoma and other malignant neoplasms of skin,55972
+18,Neoplasms of uncertain or unknown behaviour,56195
