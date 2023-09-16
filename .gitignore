@@ -3,7 +3,7 @@
 *_study_ids*
 *label_0*
 *label_2*
-*interrater*
+*/label_*interrater.csv*
 *optimal_threshold*
 *shapley_mean_xgboost*
 *y_test*
@@ -12,8 +12,8 @@
 *feature_importance_tree*
 *200n*
 */label_*.csv
-*final_model*
-*tfidf*
+*final_model_*
+*tfidf.npz*
 
 # Data files
 # *.csv
