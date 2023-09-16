@@ -1,18 +1,20 @@
-1	Benign neoplasms
-2	In situ neoplasms
-3	Malignant neoplasm of breast
-4	Malignant neoplasms of bone and articular cartilage
-5	Malignant neoplasms of digestive organs
-6	Malignant neoplasms of eye, brain and other parts of central nervous system
-7	Malignant neoplasms of female genital organs
-8	Malignant neoplasms of ill-defined, secondary and unspecified sites
-9	Malignant neoplasms of independent (primary) multiple sites
-10	Malignant neoplasms of lip, oral cavity and pharynx
-11	Malignant neoplasms of male genital organs
-12	Malignant neoplasms of mesothelial and soft tissue
-13	Malignant neoplasms of respiratory and intrathoracic organs
-14	Malignant neoplasms of thyroid and other endocrine glands
-15	Malignant neoplasms of urinary tract
-16	Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue
-17	Melanoma and other malignant neoplasms of skin
-18	Neoplasms of uncertain or unknown behaviour
+| Label index | Label name |
+| - | - |
+| 1 | Benign neoplasms |
+| 2 |	In situ neoplasms |
+| 3 |	Malignant neoplasm of breast |
+| 4 |	Malignant neoplasms of bone and articular cartilage |
+| 5 |	Malignant neoplasms of digestive organs |
+| 6 |	Malignant neoplasms of eye, brain and other parts of central nervous system |
+| 7 |	Malignant neoplasms of female genital organs |
+| 8 |	Malignant neoplasms of ill-defined, secondary and unspecified sites |
+| 9 |	Malignant neoplasms of independent (primary) multiple sites |
+| 10 |	Malignant neoplasms of lip, oral cavity and pharynx |
+| 11 |	Malignant neoplasms of male genital organs |
+| 12 |	Malignant neoplasms of mesothelial and soft tissue |
+| 13 |	Malignant neoplasms of respiratory and intrathoracic organs |
+| 14 |	Malignant neoplasms of thyroid and other endocrine glands |
+| 15 |	Malignant neoplasms of urinary tract |
+| 16 |	Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue |
+| 17 |	Melanoma and other malignant neoplasms of skin |
+| 18 |	Neoplasms of uncertain or unknown behaviour |
