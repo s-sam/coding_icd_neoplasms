@@ -1,0 +1,10 @@
+triathlon,0.00018874233
+verbally,0.00021119273
+verdict,1.6663118e-05
+quasar,8.414486e-05
+adhdrelated,1.6706601e-05
+wandering,0.0002174509
+carcinomas,2.213579e-05
+uninformative,0.0015514514
+i5qmccgah,0.00072625204
+oxygenhaemoglobin,0.00074728794

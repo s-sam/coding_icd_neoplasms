@@ -1,0 +1,9 @@
+hbsc,1.8707702e-05
+molar,2.089779e-05
+stenosed,0.00011350275
+bitly2bcqrlg,5.1015555e-05
+asfotase,0.0007009611
+gong,7.537937e-05
+lysate,0.00015624691
+conisation,0.00272381
+sleepbased,0.0032793041

@@ -1,0 +1,15 @@
+partners,8.1397144e-07
+cd14152,1.0923117e-06
+epilepsies,3.606569e-06
+keepsake,5.4230688e-05
+familyprimary,7.234161e-06
+informatics,0.000120012206
+tas20,1.6693607e-06
+primaryprogressive,6.793033e-05
+aerie,4.0333935e-06
+auristatin,5.770457e-05
+prhaps,0.00010958517
+taxanefree,1.1988363e-06
+1treatment,2.9820962e-06
+sclerotherapy,4.525322e-06
+emcat,8.506661e-07
